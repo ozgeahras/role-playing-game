@@ -15,3 +15,4 @@
 - The setTimeout() Method
 - Arrow Functions
 - The ternary operator
+- classes
