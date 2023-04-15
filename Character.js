@@ -2,7 +2,7 @@ import {
   getDiceRollArray,
   getDicePlaceholderHtml,
   getPercentage,
-} from "/utils.js";
+} from "./utils.js";
 
 class Character {
   constructor(data) {

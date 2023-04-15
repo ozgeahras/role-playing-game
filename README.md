@@ -24,21 +24,10 @@
 - Solution URL: https://ozgeahras.github.io/role-playing-game/
 - Live Site URL: https://github.com/ozgeahras/role-playing-game
 
-### The Process
-
-## Create the App with Vite
-
-- npm create vite@latest travel-journey-with-react --template react
-
-## How to run
-
-- cd ..travel-journey-with-react
-- npm install
-- npm run dev
-
 ## Author
 
 - Özge Ahras
+- https://ozgeahras.com/
 
 ## Source
 
