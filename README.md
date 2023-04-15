@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: https://ozgeahras.github.io/role-playing-game/
-- Live Site URL: https://github.com/ozgeahras/role-playing-game
+- Live Site URL: https://ozgeahras.github.io/role-playing-game/
+- Solution URL: https://github.com/ozgeahras/role-playing-game
 
 ## Author
 
