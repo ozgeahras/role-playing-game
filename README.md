@@ -32,13 +32,13 @@
 
 ## How to run
 
-cd ..travel-journey-with-react
-npm install
-npm run dev
+- cd ..travel-journey-with-react
+- npm install
+- npm run dev
 
 ## Author
 
--Özge Ahras
+- Özge Ahras
 
 ## Source
 
